@@ -1,2 +1,2 @@
-You must also include a SETUP.md file that provides clear installation and setup instructions for running your project. 
-If your project uses external APIs or services, you should provide clear instructions for graders on how they can test your system.
+Additionally, you must include an ATTRIBUTION.md file that contains detailed attribution of AI-generated code, external libraries, datasets, and any other resources used in your project.
+

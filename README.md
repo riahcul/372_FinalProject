@@ -28,24 +28,24 @@ Technical Walkthrough: https://drive.google.com/file/d/1Dx-o1W-YXRdQCCwrTunzYnj1
 <img width="486" height="487" alt="Screenshot 2025-12-09 at 16 41 12" src="https://github.com/user-attachments/assets/a4dfd0bf-d447-448e-bcc7-c3f46c7e004d" />
 
 - Cisplatin:
-  ElasticNet standard average fit time: 0.5725 s
-  ElasticNet + mutation average fit time: 0.6203 s
+  -- ElasticNet standard average fit time: 0.5725 s
+  -- ElasticNet + mutation average fit time: 0.6203 s
 
 - PLX-4720:
-  ElasticNet standard average fit time: 1.3843 s
-  ElasticNet + mutation average fit time: 0.9544 s
+  -- ElasticNet standard average fit time: 1.3843 s
+  -- ElasticNet + mutation average fit time: 0.9544 s
 
 - Selumetinib:
-  ElasticNet standard average fit time: 0.5012 s
-  ElasticNet + mutation average fit time: 0.4615 s
+  -- ElasticNet standard average fit time: 0.5012 s
+  -- ElasticNet + mutation average fit time: 0.4615 s
 
 - Trametinib:
-  ElasticNet standard average fit time: 0.0699 s
-  ElasticNet + mutation average fit time: 0.0693 s
+  -- ElasticNet standard average fit time: 0.0699 s
+  -- ElasticNet + mutation average fit time: 0.0693 s
 
 - Nutlin-3a (-):
-  ElasticNet standard average fit time: 0.1204 s
-  ElasticNet + mutation average fit time: 0.1123 s
+  -- ElasticNet standard average fit time: 0.1204 s
+  -- ElasticNet + mutation average fit time: 0.1123 s
 
 ### Some drugs had a higher Spearman coefficient in RandomForest only when the mutation data was included.
 <img width="486" height="487" alt="Screenshot 2025-12-09 at 16 46 00" src="https://github.com/user-attachments/assets/a48d7b68-2f14-4f68-9878-a96fcbf040c1" />

@@ -1,0 +1,14 @@
+Packages used for this project include:
+time
+numpy
+pandas 
+seaborn 
+torch
+matplotlib.pyplot
+sklearn.model selection: train_test_split, cross_val_score
+sklearn.metrics: r2_score, mean_squared_error, root_mean_squared_error, r2_score
+sklearn.linear_model: Ridge, Lasso, ElasticNet
+sklearn.ensemble: RandomForestRegressor
+sklearn.neighbors: KNeighborsRegressor
+sklearn.neural_network: MLPRegressor
+sklearn.preprocessing: StandardScaler

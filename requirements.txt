@@ -1,5 +1,9 @@
-# Restore module environment to avoid conflicts
-module restore
-# Load required modules
-module load miniconda/23.9.0
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+scipy
+torch
+torchvision
 

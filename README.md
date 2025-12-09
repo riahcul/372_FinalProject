@@ -22,3 +22,6 @@ Technical Walkthrough: https://drive.google.com/file/d/1Dx-o1W-YXRdQCCwrTunzYnj1
 
 ## Evaluation
 section that presents any quantitative results, accuracy metrics, or qualitative outcomes from testing,
+<img width="486" height="487" alt="Screenshot 2025-12-09 at 16 40 46" src="https://github.com/user-attachments/assets/288a6bcc-1c89-4689-b434-62011f6dda4e" />
+<img width="486" height="487" alt="Screenshot 2025-12-09 at 16 41 12" src="https://github.com/user-attachments/assets/a4dfd0bf-d447-448e-bcc7-c3f46c7e004d" />
+

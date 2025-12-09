@@ -41,6 +41,17 @@ SEQ	Preprocessed	Cell-lines	Sequencing BEMs for cell-lines	Binary event matrices
 BEMs
 
 # AI-generated code:
+Utilized AI to help me create the following files:
+src/hvg.py for dimensionality reduction, 
+src/plotting.py
+ensemble_all_drugs in models/nn_standard_model and models/nn_mut_model
+
+Utilized AI to help me structure and format the following files:
+src/run_elasticnet.py
+src/run_randomforest.py
+src/mkp.py
+
+And to assist with data transformation in models/nn_standard_model and models/nn_mut_model
 
 
 

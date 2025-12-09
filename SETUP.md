@@ -1,2 +1,1 @@
-You must also include a SETUP.md file that provides clear installation and setup instructions for running your project. 
-If your project uses external APIs or services, you should provide clear instructions for graders on how they can test your system.
+Since this project runs in Jupyter Notebook, there are no other external services used outside of the libraries and packages that have been listed and environment dependencies.

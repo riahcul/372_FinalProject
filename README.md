@@ -21,7 +21,7 @@ This project was completed in Jupyter Notebooks.
 Technical Walkthrough: https://drive.google.com/file/d/1Dx-o1W-YXRdQCCwrTunzYnj1XZ84xRBi/view?usp=sharing
 
 ## Evaluation
-section that presents any quantitative results, accuracy metrics, or qualitative outcomes from testing,
+Highest-performing drug in terms of Spearman coefficient for ElasticNet model. Higher Spearman's coefficient than in Li et al. (2021) for the same drug, indicating that ElasticNet would have more success predicting drug sensitivity for Trametinib when compared to the paper's GA/KNN Algorithm. 
 <img width="486" height="487" alt="Screenshot 2025-12-09 at 16 40 46" src="https://github.com/user-attachments/assets/288a6bcc-1c89-4689-b434-62011f6dda4e" />
 <img width="486" height="487" alt="Screenshot 2025-12-09 at 16 41 12" src="https://github.com/user-attachments/assets/a4dfd0bf-d447-448e-bcc7-c3f46c7e004d" />
 

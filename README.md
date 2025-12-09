@@ -17,7 +17,7 @@ This project was completed in Jupyter Notebooks.
 8. Run 7.nn_model_mut.ipynb for MLP and ensemble model with mutation data under FinalProject/models
 
 ## Video Links
-section with direct links to your demo and technical walkthrough videos,
+Technical Walkthrough: https://drive.google.com/file/d/1Dx-o1W-YXRdQCCwrTunzYnj1XZ84xRBi/view?usp=sharing
 
 ## Evaluation
 section that presents any quantitative results, accuracy metrics, or qualitative outcomes from testing,

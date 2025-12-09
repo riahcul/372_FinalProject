@@ -1,7 +1,7 @@
 # FinalProject372
 
 ## Predicting Cancer Cell Line Drug Sensitivity with Ensemble Machine Learning Models
-This project aims to accurately predict the response variable ln(IC50) based off of gene expression data, drug data, and mutation data. By combining datasets that paint a picture of the landscape of cell line-drug interactions, we are able to use ElasticNet, RandomForest, MLP, and ensemble models to predict this regression task. 
+This project aims to accurately predict the response variable ln(IC50) based off of gene expression data, drug data, and mutation data. IC50 is the concentration that a drug needs to be at to reduce cancer cell growth by 50%. By combining datasets that paint a picture of the landscape of cell line-drug interactions, we are able to use ElasticNet, RandomForest, MLP, and ensemble models for this regression task. 
 
 ## What it Does 
 section that describes in one paragraph what your project does,

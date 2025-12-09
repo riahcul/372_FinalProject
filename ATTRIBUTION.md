@@ -1,28 +1,26 @@
-# AI-generated code:
-
 # External Libraries:
 - time
 - pickle
-os
-sys
-numpy
-pandas 
-seaborn 
-torch
-matplotlib.pyplot
-sklearn.model_selection: train_test_split, cross_val_score, GroupKFold, cross_val_predict, RandomizedSearchCV, GroupShuffleSplit, cross_val_score
-sklearn.metrics: r2_score, mean_squared_error, root_mean_squared_error, r2_score
-sklearn.linear_model: Ridge, Lasso, ElasticNet, LinearRegression
-sklearn.ensemble: RandomForestRegressor
-sklearn.pipeline: Pipeline
-sklearn.neighbors: KNeighborsRegressor
-sklearn.neural_network: MLPRegressor
-sklearn.preprocessing: StandardScaler, PolynomialFeatures, OneHotEncoder
-scipy.stats: pearsonr, spearmanr
-torch.nn: nn
-torch.utils.data: TensorDataset, DataLoader, random_split
-torchvision.transforms: ToTensor
-torch.optim: optim
+- os
+- sys
+- numpy
+- pandas 
+- seaborn 
+- torch
+- matplotlib.pyplot
+- sklearn.model_selection: train_test_split, cross_val_score, GroupKFold, cross_val_predict, RandomizedSearchCV, GroupShuffleSplit, cross_val_score
+- sklearn.metrics: r2_score, mean_squared_error, root_mean_squared_error, r2_score
+- sklearn.linear_model: Ridge, Lasso, ElasticNet, LinearRegression
+- sklearn.ensemble: RandomForestRegressor
+- sklearn.pipeline: Pipeline
+- sklearn.neighbors: KNeighborsRegressor
+- sklearn.neural_network: MLPRegressor
+- sklearn.preprocessing: StandardScaler, PolynomialFeatures, OneHotEncoder
+- scipy.stats: pearsonr, spearmanr
+- torch.nn: nn
+- torch.utils.data: TensorDataset, DataLoader, random_split
+- torchvision.transforms: ToTensor
+- torch.optim: optim
 
 # Datasets:
 ## GDSC1 Dataset: 
@@ -41,6 +39,10 @@ EXP	Preprocessed	Cell-lines	RMA normalised expression data for cell-lines	RMA no
 https://www.cancerrxgene.org/gdsc1000/GDSC1000_WebResources/Home.html
 SEQ	Preprocessed	Cell-lines	Sequencing BEMs for cell-lines	Binary event matrices with status of CGs across cell-lines	CFEs in Cell Lines
 BEMs
+
+# AI-generated code:
+
+
 
 
 

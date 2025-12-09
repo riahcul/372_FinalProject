@@ -1,6 +1,6 @@
 # FinalProject372
 
-## Project Title and short (1-3 sentence) description of what your project does,
+## Predicting Cancer Cell Line Drug Sensitivity with Ensemble Machine Learning Models
 
 ## What it Does 
 section that describes in one paragraph what your project does,

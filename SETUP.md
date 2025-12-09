@@ -15,17 +15,22 @@ jupyter notebook
 3. Run the notebooks in this order
 
 Open:
+1.exploratory_data_analysis.ipynb
 
-01_preprocessing.ipynb
+2.data_processing.ipynb
 
-02_baseline_models.ipynb
+3.dimensionality_reduction.ipynb
 
-03_nn_and_ensemble.ipynb
+4.baseline_elasticnet.ipynb
 
-04_analysis_and_visualizations.ipynb
+5.baseline_randomforest.ipynb
+
+6.nn_model_standard.ipynb
+7.nn_model_mut.ipynb
 
 Each notebook is self-contained
 
 4. Data
 
 Expression, mutation, and drug response data should be placed in the data/ directory before running the notebooks.
+
